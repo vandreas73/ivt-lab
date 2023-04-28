@@ -77,7 +77,7 @@ public class GT4500 implements SpaceShip {
         break;
 
       case ALL:
-      //TODO: conflict v2
+      //TODO: conflict 1
         firingSuccess = true;
 
         break;
